@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "adrenalineribreplacement",
-		"price": 1300,
+		"price": 1333,
 		"category": "Bionics",
 		"defname": "AdrenalineRib"
 	},
@@ -89,12 +89,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "AA_AerofleetMeat"
-	},
-	{
-		"abr": "aerofleetmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AA_Aerofleet"
 	},
 	{
 		"abr": "agavefruit",
@@ -1040,7 +1034,7 @@
 	},
 	{
 		"abr": "counter",
-		"price": 38,
+		"price": 53,
 		"category": "Furniture",
 		"defname": "Anon2CounterA"
 	},
@@ -1328,15 +1322,9 @@
 	},
 	{
 		"abr": "dresser",
-		"price": 179,
-		"category": "Furniture",
-		"defname": "Dresser"
-	},
-	{
-		"abr": "dresser",
 		"price": 172,
 		"category": "Furniture",
-		"defname": "Anon2Dresser"
+		"defname": "Dresser"
 	},
 	{
 		"abr": "dromedarymeat",
@@ -1484,15 +1472,9 @@
 	},
 	{
 		"abr": "endtable",
-		"price": 106,
-		"category": "Furniture",
-		"defname": "EndTable"
-	},
-	{
-		"abr": "endtable",
 		"price": 103,
 		"category": "Furniture",
-		"defname": "Anon2EndTable"
+		"defname": "EndTable"
 	},
 	{
 		"abr": "endtable(lamp)",
@@ -1745,12 +1727,6 @@
 		"price": 277,
 		"category": "Furniture",
 		"defname": "Jecrell_GasStreetLampAlpha"
-	},
-	{
-		"abr": "gasstreetlamp",
-		"price": 277,
-		"category": "Furniture",
-		"defname": "Jecrell_GasStreetLampBeta"
 	},
 	{
 		"abr": "gasmask",
@@ -2683,12 +2659,6 @@
 		"defname": "AA_OcularJellyMeat"
 	},
 	{
-		"abr": "ocularjellymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AA_OcularJelly"
-	},
-	{
 		"abr": "olive",
 		"price": 2,
 		"category": "Vegetarian",
@@ -3179,12 +3149,6 @@
 		"price": 492,
 		"category": "Production",
 		"defname": "Cult_AnimalSacrificeAltar"
-	},
-	{
-		"abr": "sacrificialaltar",
-		"price": 492,
-		"category": "Production",
-		"defname": "Cult_HumanSacrificeAltar"
 	},
 	{
 		"abr": "sailoruniform",
@@ -4115,7 +4079,325 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "berrymilk",
+		"price": 7,
+		"category": "Meals",
+		"defname": "RS_Berrymilk"
+	},
+	{
+		"abr": "bubblelambmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RS_Bubblelamb"
+	},
+	{
+		"abr": "chocomilk",
+		"price": 7,
+		"category": "Meals",
+		"defname": "RS_chocomilk"
+	},
+	{
+		"abr": "cuttingboard",
+		"price": 61,
+		"category": "Production",
+		"defname": "RS_Doma"
+	},
+	{
+		"abr": "eggpaste",
+		"price": 30,
+		"category": "Meals",
+		"defname": "RS_eggjuk"
+	},
+	{
+		"abr": "fridge",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "RS_fridge"
+	},
+	{
+		"abr": "fridgecounter",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "RS_CounterB"
+	},
+	{
+		"abr": "friedegg",
+		"price": 17,
+		"category": "Meals",
+		"defname": "RS_fried_egg"
+	},
+	{
+		"abr": "gardenlantern",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "GardenLantern"
+	},
+	{
+		"abr": "gardenlantern(blue)",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "GardenLanternB"
+	},
+	{
+		"abr": "microwave",
+		"price": 150,
+		"category": "Production",
+		"defname": "RS_Microwave"
+	},
+	{
+		"abr": "mushroomsoup",
+		"price": 33,
+		"category": "Meals",
+		"defname": "RS_mushroom_soup"
+	},
+	{
+		"abr": "outdoorfloodlights",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "OutdoorFloodLights"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp"
+	},
+	{
+		"abr": "outdoorlamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Blue"
+	},
+	{
+		"abr": "outdoorlamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Green"
+	},
+	{
+		"abr": "outdoorlamp(orange)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Orange"
+	},
+	{
+		"abr": "outdoorlamp(purple)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Purple"
+	},
+	{
+		"abr": "outdoorlamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "OutdoorLamp_Red"
+	},
+	{
+		"abr": "outdoorsolarlamp",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp"
+	},
+	{
+		"abr": "outdoorsolarlamp(blue)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Blue"
+	},
+	{
+		"abr": "outdoorsolarlamp(green)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Green"
+	},
+	{
+		"abr": "outdoorsolarlamp(orange)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Orange"
+	},
+	{
+		"abr": "outdoorsolarlamp(purple)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Purple"
+	},
+	{
+		"abr": "outdoorsolarlamp(red)",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "OutdoorSolarLamp_Red"
+	},
+	{
+		"abr": "outdoorstreetlamp",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp"
+	},
+	{
+		"abr": "outdoorstreetlamp(blue)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Blue"
+	},
+	{
+		"abr": "outdoorstreetlamp(green)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Green"
+	},
+	{
+		"abr": "outdoorstreetlamp(orange)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Orange"
+	},
+	{
+		"abr": "outdoorstreetlamp(purple)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Purple"
+	},
+	{
+		"abr": "outdoorstreetlamp(red)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "OutdoorStreetLamp_Red"
+	},
+	{
+		"abr": "popcorn",
+		"price": 7,
+		"category": "Meals",
+		"defname": "RS_popcorn"
+	},
+	{
+		"abr": "potatolatki",
+		"price": 25,
+		"category": "Meals",
+		"defname": "RS_potatolatki"
+	},
+	{
+		"abr": "pudding",
+		"price": 8,
+		"category": "Meals",
+		"defname": "RS_pudding"
+	},
+	{
+		"abr": "pumpkinlantern",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "PumpkinLantern"
+	},
+	{
+		"abr": "rimstrostove",
+		"price": 375,
+		"category": "Production",
+		"defname": "RS_stove"
+	},
+	{
+		"abr": "simplesofa",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RS_Sofachair"
+	},
+	{
+		"abr": "sink",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "RS_sink"
+	},
+	{
+		"abr": "smallflower",
+		"price": 11,
+		"category": "Furniture",
+		"defname": "RS_tableflower"
+	},
+	{
+		"abr": "smalltable",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RS_smallTable"
+	},
+	{
+		"abr": "steakricebowl",
+		"price": 33,
+		"category": "Meals",
+		"defname": "RS_steak_deopbab"
+	},
+	{
+		"abr": "tableclothe",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RS_smallTableClothe"
+	},
+	{
+		"abr": "tableclothe2",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RS_smallTableClotheB"
+	},
+	{
+		"abr": "thrumbosteak",
+		"price": 67,
+		"category": "Meals",
+		"defname": "RS_thrumbo_steak"
+	},
+	{
+		"abr": "toruffleegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggToruffleFertilized"
+	},
+	{
+		"abr": "torufflemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RS_Toruffle"
+	},
+	{
+		"abr": "aerofleetmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Aerofleet"
+	},
+	{
+		"abr": "counter",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "RS_Counter"
+	},
+	{
+		"abr": "dresser",
+		"price": 172,
+		"category": "Furniture",
+		"defname": "Anon2Dresser"
+	},
+	{
+		"abr": "endtable",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "Anon2EndTable"
+	},
+	{
+		"abr": "gasstreetlamp",
+		"price": 277,
+		"category": "Furniture",
+		"defname": "Jecrell_GasStreetLampBeta"
+	},
+	{
+		"abr": "ocularjellymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_OcularJelly"
+	},
+	{
+		"abr": "sacrificialaltar",
+		"price": 492,
+		"category": "Production",
+		"defname": "Cult_HumanSacrificeAltar"
 	}
 	],
-	"total": 686
+	"total": 733
 }
